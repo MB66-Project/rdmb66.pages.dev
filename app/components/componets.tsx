@@ -133,7 +133,7 @@ export default function RonaldinhoPage() {
             muted
           >
             <source 
-            src="https://ui-work.b-cdn.net/videos/MB66.mp4" 
+            src="https://file.781243555.com/video/MB66.mp4" 
             type="video/mp4" />
             <p>Your browser does not support the video tag.</p>
           </video>
