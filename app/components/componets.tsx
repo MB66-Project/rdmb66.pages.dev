@@ -525,12 +525,20 @@ export default function RonaldinhoPage() {
             <Image
               src="/img/footer_2.png"
               alt="All Partner mobile"
-              width={430}
+              width={380}
               height={250}
               draggable= "false"
-              className="w-full"
+              className="w-auto"
             />
           </a>
+          <Image
+            src="/img/footer2.png"
+            alt="All Samll Logos mobile"
+            width={250}
+            height={250}
+            draggable= "false"
+            className="w-auto mt-10 mb-2"
+          />
         </div>
       </section>
     </div>
